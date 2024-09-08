@@ -92,4 +92,4 @@ function drawGame() {
     moveSnake();
 }
 
-let game = setInterval(drawGame, 200);
+let game = setInterval(drawGame, 150);
